@@ -24,7 +24,8 @@ loop do
     else
         result = 'Opção inválida'
     end
-    # comando que limpa o console
+    
     system 'clear'
+    # comando que limpa o console
 
 end
