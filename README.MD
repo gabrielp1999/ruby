@@ -1,6 +1,6 @@
 ## Ruby
 
-<p align="center"> 
+<p allign="center"> 
     <a href="https://github.com/alrra/logo-maker"> 
         <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby logo" /> 
     </a> 
