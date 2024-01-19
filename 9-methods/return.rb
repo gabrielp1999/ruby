@@ -15,7 +15,7 @@ puts "o resultado de comparação é #{result ? 'verdadeiro' : 'falso'}"
 
 
 def compareTwo(c, d)
-   c < d
+   return c < d
 end
 # mais se quiser voce pode utilizar o return 
 
