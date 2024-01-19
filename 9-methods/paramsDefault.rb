@@ -1,4 +1,4 @@
-def signal color = 'vermelho'
+def signal (color = 'vermelho')
     puts "O sinal está #{color}"
 end
 
