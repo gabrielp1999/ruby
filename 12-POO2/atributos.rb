@@ -4,6 +4,7 @@ class Dog
 
     def message
         "meu dog lindinho que chama #{@name}, tem #{@age} anos"
+        # para acessar o atributo da classe basta utilizar o @atributo
     end
 
     def add 
