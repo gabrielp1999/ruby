@@ -12,7 +12,7 @@ class Pen
     attr_accessor :color
     def pen_color
         puts  "The color of the pen is #{self.color}"
-        # tudo que a instancia tem acesso o self também tem
+        # tudo que a instância tem acesso o self também tem
     end
 end
 
